@@ -15,5 +15,5 @@ $ git clone https://github.com/mikes1098/Application-Security-Assignment1.git
 ### Usage
 Run the ImageResize.py file
 ```bash
-python ImageResize.py /Path/To/YourImageFile.png <dimensions>
+$ python ImageResize.py /Path/To/YourImageFile.png <dimensions>
 ```
